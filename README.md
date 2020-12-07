@@ -1,5 +1,4 @@
 # Lab7
-Website
 This is the source code for a simple website I created with html and css. There is not a lot of content in it. 
 My main obejctive for this small project was to learn how to host a website using AWS's S3 feature.
 instead of making a programmer portfolio, I took this opportunity to learn how to host a website because I felt like I don't have much project to organize a portfolio.
